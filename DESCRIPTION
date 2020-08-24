@@ -1,0 +1,14 @@
+Package: rpharma
+Type: Package
+Title: SDTM/ADaM data for R programming
+Version: 0.1.0
+Author: kumar
+Maintainer: The package maintainer <rlanguage22@gmail.com>
+Description: Fake SDTM/ADaM data for producing TLF in R programming.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports: 
+    dplyr,
+    tibble

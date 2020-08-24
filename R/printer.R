@@ -3,7 +3,6 @@
 #' @param r what you want in second column
 #' @param x what you want in first column
 #'
-#'
 #' @return A tibble
 #' @export
 #' @importFrom tibble tibble
